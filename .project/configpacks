@@ -3,6 +3,7 @@
 *defaults.EnvVars
 *defaults.Readme
 *defaults.Entrypoint
+*ngc.BCPWrapper
 *apt.PackageManager
 *bash.PreLanguage
 *python.PipPackageManager
